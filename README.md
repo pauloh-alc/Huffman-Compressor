@@ -4,7 +4,7 @@ Compressor de arquivo usando a codificação de Huffman
 
 ### Relatório
 
-[Acessar](https://github.com/pauloh-alc/Huffman-Compressor/blob/main/README.md)
+[Acessar](https://github.com/pauloh-alc/Huffman-Compressor/blob/main/relatorio_huffman_paulo_henrique_494837.pdf)
 
 ### Execução do código fonte
 
